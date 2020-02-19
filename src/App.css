@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2016/03/09/08/13/space-1245564_960_720.jpg)
+}
+
+p {
+    font-weight: 900;
+    color: lightblue;
+    background-color: black;
+    font-family: 'Andale Mono', monospace;
+}
+h1{
+    text-align: center;
+    color: lightblue;
+    font-weight: 900;
+    font-size: 60px;
+    background-color: black;
+    font-family: 'Andale Mono', monospace;
+}
+
+h2 {
+    color:lightblue;
+    font-weight: 900;
+    background-color: black;
+    font-family: 'Andale Mono', monospace;
+}
